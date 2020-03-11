@@ -1,0 +1,15 @@
+2018-10-14 00:12:02 - INFO - Note use of f string to embed the user & password (from the tuple).
+2018-10-14 00:12:06 - INFO - Find only red products
+2018-10-14 00:12:06 - INFO - Find only couches
+2018-10-14 00:13:07 - INFO - Here is where we use the connect to mongodb.
+2018-10-14 00:13:07 - INFO - Note use of f string to embed the user & password (from the tuple).
+2018-10-14 00:13:09 - INFO - Find only red products
+2018-10-14 00:13:09 - INFO - Find only couches
+2018-10-14 00:19:26 - INFO - 
+
+====
+2018-10-14 00:19:26 - INFO - Step 1: Demonstrate persistence with pickle
+2018-10-14 00:19:26 - INFO - Write a pickle file with the furniture data
+2018-10-14 00:19:26 - INFO - Step 2: Now read it back from the pickle file
+2018-10-14 00:19:26 - INFO - Step 3: Show that the write and read were successful
+2018-10-14 00:19:26 - INFO - and print the data

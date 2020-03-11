@@ -1,0 +1,4 @@
+2018-10-14 00:09:47 - INFO - Retreive customer info
+2018-10-14 00:09:52 - INFO - Here is where we use the connect to redis.
+2018-10-14 00:09:52 - INFO - Add more customer data
+2018-10-14 00:09:53 - INFO - Retreive customer info
